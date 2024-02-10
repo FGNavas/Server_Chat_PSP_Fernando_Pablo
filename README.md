@@ -38,7 +38,10 @@ Aun le falta por intgrar mas funcionalidades.
 
 ## Créditos
 
-Este proyecto fue desarrollado como practica para la asignatura de Programacion de Servicios y Procesos por los integrantes
-    -Fernando https://github.com/FGNavas
-    -Pablo https://github.com/Samupabs
+Este proyecto fue desarrollado como práctica para la asignatura de Programación de Servicios y Procesos por los integrantes:
+- Fernando  
+  [GitHub de Fernando](https://github.com/FGNavas)
+- Pablo  
+  [GitHub de Pablo](https://github.com/Samupabs)
+
 
