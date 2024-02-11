@@ -244,7 +244,7 @@ public class Server implements Runnable {
                 }
 
             } catch (IOException e) {
-
+                System.err.println("Error: conexion del cliente con servidor");
             } finally {
                 System.out.println("Cliente: " + getClientId() + " desconectado");
                 deleteClient(getClientId());

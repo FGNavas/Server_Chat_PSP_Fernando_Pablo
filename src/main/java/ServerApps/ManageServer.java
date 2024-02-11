@@ -31,9 +31,9 @@ public class ManageServer implements Runnable {
         this.server = server;
         Thread serverthread = new Thread(server);
         serverthread.start();
-        this.listHandler = listHandler;
+       /* this.listHandler = listHandler;
         Thread listThread = new Thread(listHandler);
-        listThread.start();
+        listThread.start();*/
         this.sc = sc;
     }
 

@@ -24,7 +24,9 @@ public class Main {
             try {
                 System.out.println("Ingrese el número permitido de clientes: ");
                 maxClients = sc.nextInt();
-                validInput = true;
+                if (maxClients > 0) {
+                    validInput = true;
+                }
             } catch (InputMismatchException e) {
                 // Se maneja el caso en que se ingrese un valor no válido
                 System.out.println("Error: Ingrese un número entero válido.");
